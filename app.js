@@ -16,7 +16,7 @@ var check = function() {
 		highscore = Uscore;
 		document.getElementById('highhhhhscore').innerHTML = "Highscore: " + highscore;
 	};
-}
+};
 
 
 alert('Welcome To Bok Choi\'s Cookie Clicker. DO WUT U NEED TO DO OR THE ASIAN INVASION WILL FIND YOU!');
