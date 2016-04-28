@@ -49,10 +49,26 @@ body{
 	display: inline-block;
 }
 
-#banter{
-	float: right;
-	width: 520px;
-	height: 1000px;
-	background-color: purple;
+#reset {
+	margin-top: -300px;
+	margin-left: 190px;
+	width: 135px;
+	height: 50px;
+	font-size: 24px;
+	border-radius: 12px;
+	border: #4CAF50;
+}
+
+#reset:hover {
+background-color: #4CAF50;
+	font-size: 24px;
+	border-radius: 12px;
+	border: #4CAF50;
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#win {
 	text-align: center;
+	color: #5CA5FE;
+	font-size: 200px
+
 }
